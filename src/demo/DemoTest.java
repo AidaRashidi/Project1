@@ -7,6 +7,6 @@ public class DemoTest {
 		
 		System.out.println("Today is Sunday");
 		System.out.println("Test");
-		
+		System.out.println("Java");
 	}
 }
